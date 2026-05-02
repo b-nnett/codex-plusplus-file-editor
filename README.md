@@ -1,5 +1,7 @@
 # File Editor
 
+<img width="2000" height="1468" alt="Screen Recording 2026-05-02 at 19 27 01 smaller" src="https://github.com/user-attachments/assets/88eda2ff-f9b2-4c49-831c-eb443cc799b7" />
+
 File Editor is a Codex++ tweak that turns Codex's right-panel file preview into an editable local text editor.
 
 It keeps the native right-panel flow, but overlays an editor with syntax highlighting, line numbers, autosave controls, breadcrumb navigation, and local file actions.
